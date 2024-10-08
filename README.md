@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @d3nn1sp
 - 👀 I’m interested in Java and Python
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java projects and Telegram Bot Creating
+- 💞️ I’m looking to collaborate on Java projects and Discord Bot Creating
 - 📫 Reach me at pirrodennis009@gmail.com
 
 <!---
